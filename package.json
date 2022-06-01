@@ -1,0 +1,30 @@
+{
+  "name": "express-typescript-boilerplate",
+  "version": "1.0.0",
+  "description": "A boilerplate for building production-ready RESTful APIs using Node.js, Express written in TypeScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aptgetinfo/express-typescript-boilerplate.git"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "docker",
+    "typescript"
+  ],
+  "author": "Deepak Kumar <deepak.2002.02.16@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aptgetinfo/express-typescript-boilerplate/issues"
+  },
+  "homepage": "https://github.com/aptgetinfo/express-typescript-boilerplate#readme",
+  "devDependencies": {
+    "@tsconfig/node18": "^1.0.0",
+    "@types/node": "^17.0.38",
+    "typescript": "4.7.2"
+  }
+}
