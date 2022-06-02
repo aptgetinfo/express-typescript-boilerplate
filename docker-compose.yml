@@ -1,0 +1,8 @@
+services:
+  backend:
+    build: .
+    ports:
+      - 80808:8080
+      - 9229:9229
+    volumes:
+      - .:.
