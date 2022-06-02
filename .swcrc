@@ -1,6 +1,6 @@
 {
   "env": {
-    "target": {
+    "targets": {
       "node": 18
     }
   },
